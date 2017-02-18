@@ -4,7 +4,13 @@ body {
 
 h1 {
   color: blue;
-}  
+}
+
+.crop {
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
 
 ul {
     list-style-type: none;
