@@ -28,6 +28,10 @@ h1 {
     overflow: hidden;
 }
 
+.img {
+  opacity: 1.0;
+}
+
 img {
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
