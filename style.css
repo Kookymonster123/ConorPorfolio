@@ -4,8 +4,10 @@ body {
 
 h1 {
   color: #6c0bc1;
-  float: center;
+  float: right;
   font-size: 100px;
+  border-style: solid;
+  border-color: #333;
 }
 
 .crop {
