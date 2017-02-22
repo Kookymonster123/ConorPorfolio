@@ -11,10 +11,11 @@ h1 {
 }
 
 .center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+  margin: auto;
+  color: #6c0bc1;
+  font-size: 100px;
+  border-style: solid;
+  border-color: #333;
 }
 
 .crop {
