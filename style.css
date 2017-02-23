@@ -10,8 +10,8 @@ h1 {
   border-color: #333;
 }
 
-.floatLeft {
-  float: left;
+.floatRight {
+  float: right;
 }
 
 .center {
