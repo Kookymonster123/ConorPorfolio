@@ -10,6 +10,10 @@ h1 {
   border-color: #333;
 }
 
+p {
+  color: white;
+}
+
     table {
     border-collapse: collapse;
     width: 100%;
@@ -83,3 +87,5 @@ li a {
 li a:hover {
     background-color: purple;
 }
+
+
