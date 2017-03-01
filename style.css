@@ -14,6 +14,10 @@ p {
   color: white;
 }
 
+td {
+  color: white;
+}
+
     table {
     border-collapse: collapse;
     width: 100%;
@@ -23,6 +27,8 @@ th, td {
     text-align: left;
     padding: 8px;
 }
+
+tr:nth-child(odd){background-color: gray}
 
 th {
     background-color: purple;
