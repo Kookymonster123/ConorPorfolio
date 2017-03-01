@@ -24,11 +24,11 @@ th, td {
     padding: 8px;
 }
 
-tr:nth-child(even){background-color: white}
+tr:nth-child(even){background-color: #383838}
 
 th {
     background-color: purple;
-    color: gray;
+    color: white;
 }
 
 .floatRight {
