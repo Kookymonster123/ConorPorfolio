@@ -68,6 +68,9 @@ img {
 
 video {
   border-style: solid;
+  border-color: purple;
+  border-radius: 5px;
+  border-width: 10px;
 }
 
 img:hover {
