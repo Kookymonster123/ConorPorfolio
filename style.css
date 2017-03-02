@@ -126,3 +126,8 @@ li a:hover {
     text-align: center;
 }
 
+.test {
+  width:200px;
+  height:200px;
+  cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
+}
