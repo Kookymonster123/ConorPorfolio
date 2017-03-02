@@ -127,5 +127,5 @@ li a:hover {
 }
 
 .test {
-  cursor:url(Diamond Pickaxe (normal).cur), auto;
+  cursor:url('Diamond Pickaxe (normal).cur'), auto;
 }
